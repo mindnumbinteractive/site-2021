@@ -13,7 +13,7 @@ query {
 </static-query>
 
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;400;700&display=swap");
 
 body,
 html {
@@ -24,7 +24,7 @@ body {
   background-color: black;
   color: white;
 
-  font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 </style>

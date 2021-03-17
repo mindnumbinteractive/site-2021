@@ -6,7 +6,7 @@
       <h1
         class="md:text-4xl text-3xl my-8 font-extralight uppercase text-red-600"
       >
-        Site Coming Soon...
+        Oops! Page Not Found.
       </h1>
 
       <div class="py-4 flex items-center justify-center">
@@ -32,7 +32,7 @@
 <script>
 export default {
   metaInfo: {
-    title: "Coming Soon",
+    title: "Oops!",
   },
 
   data() {
