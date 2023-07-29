@@ -42,7 +42,7 @@ export default {
         {
           label: "Twitter",
           icon: "twitter",
-          url: "https://twitter.com/mindnumb_int",
+          url: "https://twitter.com/MindnumbInt",
         },
         {
           label: "TikTok",
