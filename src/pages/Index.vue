@@ -49,6 +49,11 @@ export default {
           icon: "tiktok",
           url: "https://tiktok.com/@mindnumb_int",
         },
+        {
+          label: "YouTube",
+          icon: "youtube",
+          url: "https://www.youtube.com/channel/UCepwCva1Gq4IQEIE3znb_LA",
+        },
       ],
     };
   },
